@@ -71,8 +71,8 @@
 				"entity.name.function.preprocessor"
 			],
 			"settings": {
-				"fontStyle": "normal",
-				"foreground": "#acacac"
+				"fontStyle": "bold",
+				"foreground": "#f0f0f0"
 			}
 		},
 		{

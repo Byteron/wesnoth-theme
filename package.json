@@ -2,6 +2,7 @@
     "name": "wesnoth-theme",
     "displayName": "Wesnoth Theme",
     "description": "The theme for WML language support",
+    "publisher": "Aaron Winter",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.17.0"
