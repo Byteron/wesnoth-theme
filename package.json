@@ -1,0 +1,21 @@
+{
+    "name": "wesnoth-theme",
+    "displayName": "Wesnoth Theme",
+    "description": "The theme for WML language support",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wesnoth Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wesnoth Theme-color-theme.json"
+            }
+        ]
+    }
+}
