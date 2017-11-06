@@ -25,6 +25,16 @@
 			}
 		},
 		{
+			"name": "WMLLINT",
+			"scope": [
+				"entity.name.wmllint"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#86573c"
+			}
+		},
+		{
 			"name": "Text",
 			"scope": [
 				"text"
