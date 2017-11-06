@@ -25,7 +25,7 @@
 			}
 		},
 		{
-			"name": "WMLLINT",
+			"name": "wmllint",
 			"scope": [
 				"entity.name.wmllint"
 			],
@@ -51,7 +51,17 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#517ec2"
+				"foreground": "#89aaf0"
+			}
+		},
+		{
+			"name": "Version",
+			"scope": [
+				"entity.name.version"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#ddf089"
 			}
 		},
 		{
@@ -192,20 +202,29 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+			"name": "Numeric, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
-				"constant.numeric",
-				"constant.language",
 				"support.constant",
-				"constant.character",
 				"constant.escape",
 				"variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			],
 			"settings": {
-				"fontStyle": "italic bold",
-				"foreground": "#f0b289"
+				"fontStyle": "bold",
+				"foreground": "#c99292"
+			}
+		},
+		{
+			"name": "Numeric, Constant, Function Argument, Tag Attribute, Embedded",
+			"scope": [
+				"constant.numeric",
+				"constant.language",
+				"constant.character"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#ebe5d7"
 			}
 		},
 		{
@@ -221,7 +240,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#d2d879"
+				"foreground": "#bfd879"
 			}
 		},
 		{
