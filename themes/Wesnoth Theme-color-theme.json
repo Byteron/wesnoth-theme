@@ -223,8 +223,8 @@
 				"constant.character"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#ebe5d7"
+				"fontStyle": "bold",
+				"foreground": "#c5c2ba"
 			}
 		},
 		{
