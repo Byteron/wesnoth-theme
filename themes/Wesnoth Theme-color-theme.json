@@ -2,7 +2,7 @@
 	"name": "Wesnoth Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1b1b1b",
+		"editor.background": "#181818",
 		"editor.foreground": "#c5c2ba",
 		"activityBarBadge.background": "#75291c",
 		"sideBarTitle.foreground": "#bbb4a2"
@@ -92,7 +92,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#608a64"
+				"foreground": "#79608a"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#ad4545"
+				"foreground": "#ad5d45"
 			}
 		},
 		{
@@ -179,7 +179,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#8a6060"
+				"foreground": "#8a606d"
 			}
 		},
 		{
@@ -212,7 +212,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#8a6060"
+				"foreground": "#8a606d"
 			}
 		},
 		{
@@ -240,7 +240,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#7b8a60"
+				"foreground": "#738a60"
 			}
 		},
 		{
