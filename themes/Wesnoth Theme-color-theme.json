@@ -25,6 +25,16 @@
 			}
 		},
 		{
+			"name": "Macro",
+			"scope": [
+				"entity.name.macro.undef"
+			],
+			"settings": {
+				"fontStyle": "normal",
+				"foreground": "#ad4545"
+			}
+		},
+		{
 			"name": "wmllint",
 			"scope": [
 				"entity.name.wmllint"
