@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "wesnoth-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# WML Color Theme
+This color theme is optimized to work with the WML (Wesnoth Markup Language) Syntax Highlighting Support
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+### Battle for Wesnoth 
+is an [open source](https://opensource.org/faq#osd), turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+([Wesnoth Homepage](https://www.wesnoth.org/))
 
 **Enjoy!**
