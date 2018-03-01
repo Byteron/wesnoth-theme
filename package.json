@@ -19,5 +19,8 @@
                 "path": "./themes/Wesnoth Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "url": "https://github.com/Byteron/wesnoth-theme.git"
     }
 }
