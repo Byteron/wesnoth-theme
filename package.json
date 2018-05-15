@@ -3,7 +3,7 @@
     "displayName": "Wesnoth Theme",
     "description": "The theme for WML language support",
     "publisher": "Bitron",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "bugs": { "url": "https://github.com/Byteron/wesnoth-theme/issues"},
     "engines": {
         "vscode": "^1.17.0"
